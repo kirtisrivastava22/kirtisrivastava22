@@ -12,7 +12,7 @@
 
 ### About
 
-- 🎓 B.Tech, Computer Science and Engineering — **MNNIT Allahabad** (CPI 8.79, Class of 2027)
+- 🎓 B.Tech, Computer Science and Engineering — **MNNIT Allahabad** (Class of 2027)
 - 🔭 Currently building **Cognira**, a full-stack RAG assistant with FAISS retrieval and sub-500ms streaming inference
 - 🛰️ Also shipped **Guardian**, a real-time YOLO-based ANPR alert system, and **CodeVerse**, a MERN learning platform with OAuth + Razorpay
 - 🧠 Interested in retrieval systems, computer vision, and scalable backend architecture
@@ -78,14 +78,11 @@ Google Gen AI (x2) · AWS Educate Cloud &amp; Gen AI · HackerRank REST API · f
 
 <br>
 
-### GitHub Stats
+### Contribution Snake
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kirtisrivastava22&show_icons=true&hide_border=true&theme=transparent&title_color=1FA97F&icon_color=F2793D&text_color=888888" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisrivastava22&layout=compact&hide_border=true&theme=transparent&title_color=1FA97F&text_color=888888" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirtisrivastava22&hide_border=true&theme=transparent&ring=1FA97F&fire=F2793D&currStreakLabel=1FA97F" />
+<img src="https://raw.githubusercontent.com/kirtisrivastava22/kirtisrivastava22/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
 
 </div>
 
