@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1FA97F,100:F2793D&height=200&section=header&text=Kirti%20Srivastava&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Systems%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<h1 align="center">Kirti Srivastava</h1>
+<h3 align="center">Full-Stack &amp; AI Systems Engineer · Final Year CSE @ MNNIT Allahabad</h3>
 
 <a href="https://leetcode.com/u/kirtisri_22/"><img src="https://img.shields.io/badge/LeetCode-Guardian_·_2156-1FA97F?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/kirtisri_22"><img src="https://img.shields.io/badge/Codeforces-Specialist_·_1536-F2793D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
@@ -12,12 +13,12 @@
 
 ### About
 
-- 🎓 B.Tech, Computer Science and Engineering — **MNNIT Allahabad** (Class of 2027)
-- 🔭 Currently building **Cognira**, a full-stack RAG assistant with FAISS retrieval and sub-500ms streaming inference
-- 🛰️ Also shipped **Guardian**, a real-time YOLO-based ANPR alert system, and **CodeVerse**, a MERN learning platform with OAuth + Razorpay
-- 🧠 Interested in retrieval systems, computer vision, and scalable backend architecture
-- 🏆 2nd place, HackQuest (Avishkar 2024) · Rank 24/500+, CodeStart Contest
-- 📫 Reach me at **kirtisrivastava.2004@gmail.com**
+-  Final year B.Tech, Computer Science and Engineering — **MNNIT Allahabad**
+-  Currently building **Cognira**, a full-stack RAG assistant with FAISS retrieval and sub-500ms streaming inference
+-  Also shipped **Guardian**, a real-time YOLO-based ANPR alert system, and **CodeVerse**, a MERN learning platform with OAuth + Razorpay
+-  Interested in retrieval systems, computer vision, and scalable backend architecture
+-  2nd place, HackQuest (Avishkar 2024) · Rank 24/500+, CodeStart Contest
+-  Reach me at **kirtisrivastava.2004@gmail.com**
 
 <br>
 
@@ -46,14 +47,14 @@
 <tr>
 <td width="50%">
 
-**🧠 Cognira — RAG Knowledge Assistant**
+** Cognira — RAG Knowledge Assistant**
 Full-stack RAG system for Q&A over video, audio, and docs. Hybrid retrieval (semantic + MMR + timestamp reranking), streaming FastAPI backend, sub-500ms first-token latency.
 `FAISS` `Groq LLM` `FastAPI` `React 18`
 
 </td>
 <td width="50%">
 
-**🚓 Guardian — Real-Time ANPR Alert System**
+** Guardian — Real-Time ANPR Alert System**
 Custom-trained YOLO model detects and reads plates live, matches against a flagged-vehicle database, and fires real-time alerts with confidence scores and image evidence.
 `YOLO` `OCR` `Computer Vision` `FastAPI`
 
@@ -62,7 +63,7 @@ Custom-trained YOLO model detects and reads plates live, matches against a flagg
 <tr>
 <td width="50%">
 
-**🎓 CodeVerse — Knowledge Exchange Platform**
+** CodeVerse — Knowledge Exchange Platform**
 Full-stack MERN platform for instructors to publish and monetize courses. OAuth (Google/GitHub), JWT + bcrypt sessions, Razorpay payments with webhook confirmation.
 `MERN` `OAuth` `Razorpay` `Redux Toolkit`
 
@@ -94,7 +95,5 @@ Google Gen AI (x2) · AWS Educate Cloud &amp; Gen AI · HackerRank REST API · f
 <a href="mailto:kirtisrivastava.2004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-F2793D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2793D,100:1FA97F&height=90&section=footer" width="100%"/>
 
 </div>
